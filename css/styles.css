@@ -1,4 +1,39 @@
-.body{
-  margin: o;
-  background-color: rgba(223, 219, 219, 0.075);
+body{
+  
+  background-color: rgba(34, 32, 32, 0.075);
+}
+img{
+  float: inline-start;
+}
+footer{
+  height: 70px;
+  width: 100%;
+  background-color: cadetblue;
+  
+}
+fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
 }
