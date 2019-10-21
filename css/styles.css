@@ -1,6 +1,8 @@
 body{
   
-  background-color: rgba(34, 32, 32, 0.075);
+  background-color: rgba(29, 22, 22, 0.075);
+  line-height: 2em;
+  margin: 0%;
 }
 img{
   float: inline-start;
@@ -11,12 +13,23 @@ footer{
   background-color: cadetblue;
   
 }
-fa {
+.fa {
   padding: 20px;
   font-size: 30px;
   width: 50px;
   text-align: center;
   text-decoration: none;
+}
+.menu{
+  height: 50px;
+  background-color: blue;
+  margin: 0%;
+  color: black;
+  text-decoration:none;
+  padding-right: 10px;
+}
+.menu a{
+float: right;
 }
 
 /* Add a hover effect if you want */
