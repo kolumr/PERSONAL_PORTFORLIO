@@ -36,16 +36,27 @@ text-align: center;
 margin: 10px;
 
 }
+a:hover{
+  color: aliceblue;
+}
+a:active{
+  color: crimson;
+}
+a:visited{
+  color: dimgrey;
+}
 .cont1{
   text-align: center;
   
   width: 60%;
   background-color: rgb(236, 233, 233);
+  margin: auto;
   /* opacity: 0.5; */
 }
 .contain{
   background-color: rgb(163, 157, 157);
-  align-items: center;
+  text-align: auto;
+  margin: auto;
 }
 .img1{
   text-align: center;
