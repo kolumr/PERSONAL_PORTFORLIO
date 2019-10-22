@@ -56,7 +56,14 @@ a:visited{
   /* opacity: 0.5; */
 }
 li{
-  
+  display: block;
+
+}
+ul{
+  list-style-type: square;
+}
+ol{
+  list-style-type: upper-roman;
 }
 .contain{
   background-color: rgb(163, 157, 157);
