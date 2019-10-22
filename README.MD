@@ -1,10 +1,10 @@
-#MY PERSONAL PORTFORLIO
+# MY PERSONAL PORTFORLIO
 by Kolum Ronald
-##Description
+## Description
 This project was created using 
-*CSS 
-*HTML
+* CSS 
+* HTML
 It has 3 pages
-*Home
-*About
-*Projects
+* Home
+* About
+* Projects
